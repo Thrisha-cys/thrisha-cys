@@ -1,16 +1,45 @@
-## Hi there 👋
+Hi, I'm Thrisha | Cybersecurity Enthusiast 
 
-<!--
-**Thrisha-cys/thrisha-cys** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+ B.Tech | AI&DS
+ Future Cybersecurity Analyst | Pen Tester | SOC Analyst
+📍 India
+I am currently learning cybersecurity basics from TryHackMe, building projects, and preparing for CompTIA Security+ 
 
-Here are some ideas to get you started:
+--------------------------------------------------------------------------------------------------------------------------------------------------
+Skills & Tools
+--------------------------------------------------------------------------------------------------------------------------------------------------
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Networking Fundamentals
+
+Linux & Command Line
+
+TryHackMe Labs
+
+Web Security (OWASP Top 10)
+
+Python (Basic Scripting)
+
+SOC Basics | SIEM | Incident Response (learning)
+
+------------------------------------------------------------------------------------------------------------------------------------------------------
+Current Journey
+------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Learning cybersecurity on TryHackMe daily
+
+Building small labs & automation scripts
+
+Creating mini-projects
+
+------------------------------------------------------------------------------------------------------------------------------------------------------
+Contact Me
+------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Email: thrisharadhakrishnan@gmail.com
+
+LinkedIn: www.linkedin.com/in/thrisha-radhakrishnan
+
+GitHub: https://github.com/thrisha-cys
+
+
+
