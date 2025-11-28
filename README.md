@@ -3,6 +3,8 @@ Hi, I'm Thrisha | Cybersecurity Enthusiast
  B.Tech | AI&DS
  Future Cybersecurity Analyst | Pen Tester | SOC Analyst
 📍 India
+
+
 I am currently learning cybersecurity basics from TryHackMe, building projects, and preparing for CompTIA Security+ 
 
 --------------------------------------------------------------------------------------------------------------------------------------------------
